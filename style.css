@@ -24,3 +24,12 @@
     color: black;
     padding: 5px;
 }
+
+.second-div{
+    display: flex;
+    gap: 20px;
+    color: rgba(0, 0, 255, 0.283);
+}
+.second-first-div{
+    border-radius: 5px;
+}
