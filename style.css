@@ -30,6 +30,8 @@
     gap: 20px;
     color: rgba(0, 0, 255, 0.283);
 }
-.second-first-div{
-    border-radius: 5px;
+.parent-div{
+    display: flex;
+    box-shadow: 5px 5px 12px 0px;
+    border-radius: 6px;
 }
