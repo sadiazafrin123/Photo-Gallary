@@ -32,6 +32,16 @@
 }
 .parent-div{
     display: flex;
-    box-shadow: 5px 5px 12px 0px;
-    border-radius: 6px;
+    
+}
+.second-first-div{
+    box-shadow: 5px 5px 15px 0px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.parent-div-2{
+    display: flex;
+}
+.parent-div-3{
+    display: flex;
 }
