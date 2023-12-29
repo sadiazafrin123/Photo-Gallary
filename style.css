@@ -32,16 +32,126 @@
 }
 .parent-div{
     display: flex;
+    gap: 50px;
+    padding-bottom: 50px;
+    
     
 }
 .second-first-div{
-    box-shadow: 5px 5px 15px 0px;
-    padding: 20px;
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
     border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.second-second-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.second-third-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(203, 199, 199)
 }
 .parent-div-2{
     display: flex;
+    gap: 60px;
+    padding-bottom: 50px;
+    
+}
+.third-first-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.third-second-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.third-third-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
 }
 .parent-div-3{
     display: flex;
+    gap: 50px;
+    padding-bottom: 50px;
+}
+.fourth-first-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.fourth-second-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.fourth-third-div{
+    box-shadow: 10px 10px 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:rgb(196, 194, 194)
+}
+.parent-div-new{
+    display: flex;
+    gap: 10px;
+  
+}
+.h1{
+    background-color: rgba(128, 128, 128, 0.402);
+    border-radius: 1opx;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.h2{
+    background-color: rgba(128, 128, 128, 0.402);
+    border-radius: 1opx;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.h3{
+    background-color: rgba(128, 128, 128, 0.402);
+    border-radius: 1opx;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.h4{
+    background-color: rgba(128, 128, 128, 0.402);
+    border-radius: 1opx;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.h5{
+    background-color: rgba(128, 128, 128, 0.402);
+    border-radius: 1opx;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.parent-div-piw{
+    display: flex;
+}
+
+.piwpiw{
+    
+padding: 350px;
 }
